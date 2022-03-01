@@ -9,12 +9,12 @@ The objective of this project is to use classification models in order to predic
 **Process**
 Before training the classification models, the dataset had to go through some data preprocessing and feature engineering.
 
-  1)Handling missing values
-  2)performing EDA
-  3)Handling ouliers
-  4)Encoding categorical variable
-  5)Feature Scaling
-  6)Feature Selection
+                1.Handling missing values
+                2.performing EDA
+                3.Handling ouliers
+                4.Encoding categorical variable
+                5.Feature Scaling
+                6.Feature Selection
 
 **Model Building**
 Because the dataset is imbalanced, oversampling and undersampling was applied using SMOTE and the RandomUnderSampler.
